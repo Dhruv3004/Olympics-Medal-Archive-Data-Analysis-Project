@@ -1,3 +1,5 @@
+![logo](https://github.com/Dhruv3004/Olympics-Medal-Archive-Data-Analysis-Project/blob/main/logo.jpg?raw=true)
+
 ## Olympic Medal Archive - Power BI Dashboard
 
 ## Project Overview
